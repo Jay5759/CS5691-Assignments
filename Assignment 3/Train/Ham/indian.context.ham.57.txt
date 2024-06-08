@@ -1,0 +1,3 @@
+"Write a formula for computing the probability of the event that any two members of the group will have the same birthday?"
+
+Here any two member means - exactly two or at least two ?

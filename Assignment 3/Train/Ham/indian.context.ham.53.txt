@@ -1,0 +1,7 @@
+Tutorial 10 has been uploaded on moodle. 
+
+The last 4 questions in the tutorial are related to the Bayes' rule that we were discussing today (2 discrete, 2 continuous, 1 discrete 1 continuous, 1 continuous 1 discrete).
+
+It would be great if one/some of you could post the code (colab notebook) for the plots asked in these Qs so that others can also benefit and play around with the code. 
+
+~Mitesh

@@ -1,0 +1,15 @@
+Dear Sir,
+
+1. In lecture 43 (approx. 57 minutes into the lecture), while trying to find VC (Verter Cover) of (2m+n) vertices for graph G_Phi, you mention that such a VC does not exist for the example graph.
+
+2. From my understanding, Sir, suppose we take VC of G_Phi as the following (2m+n) vertices:
+Vertices -x_1 and x_2 from variable gadget
+Vertices x_1 and x_1 from clause 1
+Vertices -x_2 and -x_2 from clause 2
+Vertices -x_1 and x_2 from clause 3
+3. The above selection of (2m+n) = 8 vertices form a VC for G_Phi (at least one endpoint of each edge is in VC. So can we say that it satisfies the condition for minimum number of vertices for VC of a graph?
+
+Thanks and regards,
+
+Sushane Parthan
+CS20M003

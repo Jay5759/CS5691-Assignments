@@ -1,0 +1,9 @@
+The HW4 grades have been released.
+
+The stats are:
+
+Mean: 17.3
+
+Std Dev: 2.77
+
+The answer key for HW4 can be found here:  here

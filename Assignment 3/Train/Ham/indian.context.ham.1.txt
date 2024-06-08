@@ -1,0 +1,11 @@
+Sir,
+
+
+
+1. I think in Assignment 7, Question 3 (a), it is meant to be an Ace, King, Queen, Jack, and 10 of the same suite, since a Joker does not belong to any suite and there are only 2 of them in a standard deck of playing cards. I have assumed that the hand in question (King's Hand) is the same as a Royal Flush.
+
+2. Requesting you to clarify the same.
+
+
+
+Regards.

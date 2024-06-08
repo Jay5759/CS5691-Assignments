@@ -1,0 +1,6 @@
+Dear All,
+On the question regarding shortest paths, the constant \beta can be -ve or +ve.
+However, one needs to assume that s is a "source" node, i.e., has in-degree zero.
+
+Best
+-Raghu
