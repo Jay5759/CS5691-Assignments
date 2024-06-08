@@ -1,5 +1,0 @@
-Respected sir,
-I have a doubt regarding NP problems and NP-Hard problems. While defining NP-Hard you said that (A belongs to NP) is said to be NP-Hard if for all (B belong to NP) and (B reduces to A). Further while defining NP-Complete you said that it is NP-Complete if problem is NP as well as NP-Hard.
-So, I have doubt that in definition of NP-Hard it is already defined as NP, so, can't we enclose set of all NP-Hard problems under the set of NP problems. If not, Please can you give some examples of problems those are NP-Hard but not NP. Please let me know the solution as soon as possible. Thanks & Regards.
-Yours Sincerely,
-Piyush Chincholika

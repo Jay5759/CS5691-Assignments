@@ -1,4 +1,0 @@
-Sorry,  I was  wrong there. Yes, the selection of vertices you have chosen indeed form a vertex cover of  size 2m+n. Also, the formula is satisfiable. Setting x_1 = 0 and x_2 = 1 is one such satisfying assignment, corresponding to the  vertex cover you have demonstrated.
-
-Best
--Raghu 

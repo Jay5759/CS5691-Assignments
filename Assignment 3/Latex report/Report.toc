@@ -1,8 +1,0 @@
-\contentsline {section}{\numberline {1}\uline {Aim}}{3}{section.1}%
-\contentsline {section}{\numberline {2}\uline {About the Dataset}}{3}{section.2}%
-\contentsline {section}{\numberline {3}\uline {Feature Extraction}}{3}{section.3}%
-\contentsline {section}{\numberline {4}\uline {Architecture of the classifier}}{5}{section.4}%
-\contentsline {section}{\numberline {5}\uline {Algorithm}}{6}{section.5}%
-\contentsline {section}{\numberline {6}\uline {Hyper-Paramter Tuning and Cross validation}}{8}{section.6}%
-\contentsline {section}{\numberline {7}\uline {Cross validation Results}}{8}{section.7}%
-\contentsline {section}{\numberline {8}\uline {Results}}{9}{section.8}%
